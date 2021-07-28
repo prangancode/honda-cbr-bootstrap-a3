@@ -1,0 +1,43 @@
+.banner-bg{
+    background-color:#264653;
+    width: 100%;
+}
+
+.banner-content-p1{
+    font-weight: 300;
+    font-size: 14px;
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+.banner-content-h1{
+    font-weight: 600;
+    font-size: 48px;
+    color: #FFFFFF;
+    padding-bottom: 18px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.banner-content-p2{
+    font-weight: 300;
+    font-size: 16px;
+    font-style: normal;
+    color: #E0E0E0;
+    padding-bottom: 21px;
+}
+
+.banner-content-btn{
+    width: 168px;
+    height: 44px;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #E76F51;
+    color: white;
+    font-weight: 500;
+}
+
+.banner-content-img{
+    width: 552px;
+    height: 447px;
+}
