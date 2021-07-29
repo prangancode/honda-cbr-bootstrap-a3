@@ -39,8 +39,9 @@
 }
 
 .banner-content-img{
-    width: 552px;
-    height: 447px;
+    /* width: 552px;
+    height: 447px; */
+    width: 100%;
 }
 
 
@@ -136,5 +137,25 @@
     color: #252B42;
     margin-bottom: 30px;
     font-family: 'Poppins', sans-serif
+
+}
+
+
+/* FAQ Section CSS  */
+
+.faq-h1{
+    font-weight: 600;
+    font-size: 48px;
+    color: #0D0925;
+ 
+    font-family: 'Poppins', sans-serif;
+}
+
+.faq-h2{
+    font-weight: 600;
+    font-size: 48px;
+    color: #E76F51;
+ 
+    font-family: 'Poppins', sans-serif;
 
 }
