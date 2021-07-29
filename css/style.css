@@ -159,3 +159,43 @@
     font-family: 'Poppins', sans-serif;
 
 }
+
+/* Extra Secttion  */
+
+/* tips section css  */
+
+
+/* Choose section Css  */
+.choose-set img{
+    width: 45px;
+    height: 45px;
+    
+}
+
+.choose-space{
+    padding-bottom: 80px;
+}
+
+
+/* Contact Section CSS  */
+
+.sign-in-section{
+
+    
+}
+
+.contact-h1{
+    font-weight: 400;
+    font-size: 48px;
+    color: red;
+ 
+    font-family: 'Poppins', sans-serif;
+}
+
+.contact-h2{
+    font-weight: 600;
+    font-size: 32px;
+    color: green;
+    font-style: oblique;
+ 
+    font-family: 'Poppins', sans-serif;
